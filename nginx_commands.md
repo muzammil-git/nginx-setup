@@ -1,4 +1,4 @@
-# Nginx Server Configuration Guide for AWS EC2
+# Nginx Server Configuration Coommand for AWS EC2
 
 This README explains how to configure Nginx on an AWS EC2 instance for setting up a secure web server with SSL/TLS encryption and HTTP to HTTPS redirection.
 
